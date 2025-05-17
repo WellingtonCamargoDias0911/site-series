@@ -30,7 +30,6 @@ Este é um site simples que apresenta uma galeria de pôsteres motivacionais par
 ## Screenshot do Site
 
 ![Screenshot do site](assets/img/site.png)  
-*Substitua o caminho acima pela imagem da sua screenshot.*
 
 ---
 
